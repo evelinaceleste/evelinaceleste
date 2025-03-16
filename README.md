@@ -18,6 +18,7 @@ Soy **Desarrolladora Web Full Stack** con experiencia en **.NET, Vue, Angular, J
 
 ## 📫 Contáctame
 - 📩 **[LinkedIn](https://www.linkedin.com/in/evelina-nu%C3%B1ez-web-developer/)**
+- 🐱‍🐉 **[Anterior Perfil de Github](https://github.com/evelinanunez)**
 - 💼 Disponible para oportunidades laborales y proyectos freelance
 
 ¡Gracias por visitar mi perfil! 🚀
